@@ -3,6 +3,7 @@
 ## Starting python-igraph:
 
 <b> Segments on parallel lines </b>
+
 <b> Nodes:</b> Start and end points 
 <b> Node attributes:</b> X and Y coordinates
 <b> Edge attributes:</b> 
