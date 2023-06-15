@@ -24,3 +24,5 @@
 * Devide the segments: Add more nodes in between
 * Avoid edge overlapping
  
+### Python-igraph tutorial:
+https://python.igraph.org/en/stable/tutorial.html
